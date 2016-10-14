@@ -4,7 +4,7 @@ Curso: Produtividade com Bootstrap
 
 Instrutor: Rodrigo Waltenberg
 
-Capítulos
+Capítulos:
 
 1. Introdução
 
